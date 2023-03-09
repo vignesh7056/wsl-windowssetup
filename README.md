@@ -36,7 +36,7 @@ step2
   
   step8
   
-  wsl --set-default-version 2
+ type in powershell = wsl --set-default-version 2
   
-  wsl --list --verbose
+  type in powershell = wsl --list --verbose
   
